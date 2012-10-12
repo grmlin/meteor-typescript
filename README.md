@@ -8,7 +8,7 @@ A meteor smart package for [TypeScript](http://typescriptlang.org) support
 
 * Got to [https://atmosphere.meteor.com/](https://atmosphere.meteor.com/) and follow the instructions
 
-### Manual
+### Manually
 
 * Download the meteor project from github
 * Download and add the `meteor-typescript` package to the packages folder of meteor
