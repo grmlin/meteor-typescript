@@ -4,6 +4,10 @@ A meteor smart package for [TypeScript](http://typescriptlang.org) support
 
 ## Installation
 
+### Prepare
+
+Install the `exec-sync` package with `>npm install -g exec-sync`. 
+
 ### Atmosphere  
 
 * Got to [https://atmosphere.meteor.com/](https://atmosphere.meteor.com/) and follow the instructions

@@ -8,7 +8,7 @@ ERROR = ERROR + (new Array(ERROR.length - 1).join("-")) + "\n";
 var fs = require('fs');
 
 // XXX Use other npm packages. Seen in the handlebars package ;)
-var execSync = require('../../packages/typescript/node_modules/exec-sync');
+var execSync = require('exec-sync');
 
 Package.register_extension("ts", function (bundle, source_path, serve_path, where) {
     var compileOut = source_path + '.compiled_typescript_js', // using `.js` as an extension would cause Meteor to load this file
