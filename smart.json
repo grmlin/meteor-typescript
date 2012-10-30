@@ -1,6 +1,6 @@
 {
     "name": "typescript",
-    "description": "Smart package for TypeScript support",
+    "description": "Smart package for TypeScript support.\n Please read the instructions at the github repo first!",
     "homepage": "https://github.com/grmlin/meteor-typescript",
     "author": "Andreas Wehr  (https://github.com/grmlin)",
     "version": "0.1.3",
